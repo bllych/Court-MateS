@@ -67,7 +67,7 @@
       <div class="grid">
         <div class="card">
           <a href="../../Isi/Pemesanan.php">
-            <img src="Gambar/Gambar Home/image 20-1.png" alt="court" />
+            <img src="../../Gambar/Gambar Home/image 20-1.png" alt="court" />
           </a>
           <div class="info">
             <p>RBL (Rab Basketball Lab)</p>
@@ -78,7 +78,7 @@
         </div>
 
         <div class="card">
-          <img src="Gambar/Gambar Home/image 20-2.png" alt="court" />
+          <img src="../../Gambar/Gambar Home/image 20-2.png" alt="court" />
           <div class="info">
             <p>Brand</p>
             <p>Lokasi</p>
@@ -88,7 +88,7 @@
         </div>
 
         <div class="card">
-          <img src="Gambar/Gambar Home/image 20-3.png" alt="court" />
+          <img src="../../Gambar/Gambar Home/image 20-3.png" alt="court" />
           <div class="info">
             <p>Brand</p>
             <p>Lokasi</p>
@@ -100,7 +100,7 @@
       <br /><br />
       <div class="grid">
         <div class="card">
-          <img src="Gambar/Gambar Home/image 20-1.png" alt="court" />
+          <img src="../../Gambar/Gambar Home/image 20-1.png" alt="court" />
           <div class="info">
             <p>Brand</p>
             <p>Lokasi</p>
@@ -110,7 +110,7 @@
         </div>
 
         <div class="card">
-          <img src="Gambar/Gambar Home/image 20-2.png" alt="court" />
+          <img src="../../Gambar/Gambar Home/image 20-2.png" alt="court" />
           <div class="info">
             <p>Brand</p>
             <p>Lokasi</p>
@@ -120,7 +120,7 @@
         </div>
 
         <div class="card">
-          <img src="Gambar/Gambar Home/image 20-3.png" alt="court" />
+          <img src="../../Gambar/Gambar Home/image 20-3.png" alt="court" />
           <div class="info">
             <p>Brand</p>
             <p>Lokasi</p>

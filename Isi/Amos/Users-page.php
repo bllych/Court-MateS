@@ -18,7 +18,7 @@
         <a href=""
           ><img src="Header Foto/Notif.png" alt="" style="margin-right: 35px"
         /></a>
-        <a href="Acc.html"><img src="Header Foto/User.png" alt="" /></a>
+        <a href="../Acc.php"><img src="Header Foto/User.png" alt="" /></a>
       </div>
     </header>
 
