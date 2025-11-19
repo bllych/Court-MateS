@@ -16,7 +16,7 @@ $courts = getAllCourts();
   <!-- Header -->
   <header>
     <div class="logo">
-      <a href="index.php"><img src="Gambar/Header Foto/logo.png" /></a>
+      <a href="../.png" /></a>
     </div>
     <div class="search-bar">
       <img src="Gambar/Header Foto/Search.png" alt="Search" />
